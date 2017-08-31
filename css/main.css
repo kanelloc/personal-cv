@@ -1,0 +1,77 @@
+@import url('https://fonts.googleapis.com/css?family=Bitter|Comfortaa|Merriweather|Saira+Condensed');
+
+.img-circle {
+    border-radius: 50%;
+}
+
+h1 {
+    font-size: 2.0rem;
+    font-family: 'Bitter', serif;
+}
+
+h2 {
+    font-size: 1.3rem;
+    font-family: 'Merriweather', serif;
+}
+
+h3 {
+    font-size: 0.9rem;
+    font-family: 'Merriweather', serif;
+}
+
+.description {
+    font-family: 'Comfortaa', cursive;
+}
+
+.col-12 i {
+    display: block;
+    text-align: center;
+}
+
+.location {
+    font-size: 1.2rem;
+    font-family: 'Saira Condensed', sans-serif;
+}
+
+.location2 {
+    margin-top: -18px;
+    font-family: 'Saira Condensed', sans-serif;
+}
+
+.mail-section{
+    padding-top: 25px;
+}
+
+.mobile-section{
+    padding-top: 25px;
+}
+
+.linkedin-section{
+    padding-top: 25px;
+}
+
+.mark-section{
+    padding-top: 25px;
+}
+
+hr{
+    margin-top: 0px;
+    border-top: 1px solid #8c8b8b;
+}
+
+.fa-6x{
+    font-size: 5rem;
+}
+
+.fa-1x{
+    font-size: 1.7rem;
+}
+
+.column{
+    display: block;
+    text-align: center;
+}
+
+.header{
+    display: inline;
+}
